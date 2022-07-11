@@ -1,0 +1,603 @@
+{
+    "episode_index": 1,
+    "shift_start": "2019-08-20T08:00:00",
+    "shift_end": "2019-08-20T20:00:00",
+    "order_timestamp": "2019-08-20T12:05:51",
+    "routes": [
+        {
+            "vehicle_id": "b22031a4-b2f3-4732-a48b-2025ccde359f",
+            "loaded_drops": [
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "be1d1cca-cc79-467d-b417-513057c5d64e",
+                        "coordinates": {
+                            "latitude": 51.11525825967165,
+                            "longitude": 0.04920314885480488
+                        }
+                    },
+                    "leg_distance": 13593,
+                    "estimated_arrival": "2019-08-20T12:08:55",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:05:45",
+                        "end": "2019-08-20T13:05:45"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "7bda655b-1728-410d-8023-4687c9526537",
+                        "coordinates": {
+                            "latitude": 51.27995264811003,
+                            "longitude": 0.1978295041515336
+                        }
+                    },
+                    "leg_distance": 21038,
+                    "estimated_arrival": "2019-08-20T12:13:48",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:07:21",
+                        "end": "2019-08-20T15:07:21"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "926ecdb3-f4ec-4e25-b82a-a183b3cba31c",
+                        "coordinates": {
+                            "latitude": 51.27451247656379,
+                            "longitude": 0.1082608626730981
+                        }
+                    },
+                    "leg_distance": 6259,
+                    "estimated_arrival": "2019-08-20T12:15:15",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:22:20",
+                        "end": "2019-08-20T12:22:20"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "eb7691fc-12aa-41f2-ba7d-cc24668e3090",
+                        "coordinates": {
+                            "latitude": 51.396264439734885,
+                            "longitude": -0.04366025820513701
+                        }
+                    },
+                    "leg_distance": 17165,
+                    "estimated_arrival": "2019-08-20T12:19:13",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:05:41",
+                        "end": "2019-08-20T13:05:41"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "13298860-092e-4054-ae2e-bb88970fdbc1",
+                        "coordinates": {
+                            "latitude": 51.42836642126209,
+                            "longitude": -0.06384185895179759
+                        }
+                    },
+                    "leg_distance": 3834,
+                    "estimated_arrival": "2019-08-20T12:20:06",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:12:09",
+                        "end": "2019-08-20T13:12:09"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "be8bfcc6-b3b4-4c63-b706-425a12c05ec5",
+                        "coordinates": {
+                            "latitude": 51.83141976633758,
+                            "longitude": -0.2489492536418711
+                        }
+                    },
+                    "leg_distance": 46603,
+                    "estimated_arrival": "2019-08-20T12:30:54",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:26:21",
+                        "end": "2019-08-20T13:26:21"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "97407221-974f-45b7-acd1-c0fbb1f5a763",
+                        "coordinates": {
+                            "latitude": 51.381399664644526,
+                            "longitude": -0.07771125095080075
+                        }
+                    },
+                    "leg_distance": 51418,
+                    "estimated_arrival": "2019-08-20T12:42:48",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:05:12",
+                        "end": "2019-08-20T15:05:12"
+                    }
+                },
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 2871,
+                    "estimated_arrival": "2019-08-20T12:43:28"
+                }
+            ],
+            "unloaded_drops": [
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 0,
+                    "estimated_arrival": "2019-08-20T12:43:28"
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "19443d30-b95a-4ee0-af3b-d4092244eabe",
+                        "coordinates": {
+                            "latitude": 51.28763890736504,
+                            "longitude": -0.19780698535399127
+                        }
+                    },
+                    "leg_distance": 11347,
+                    "estimated_arrival": "2019-08-20T12:46:05",
+                    "delivery_window": {
+                        "start": "2019-08-20T12:00:34",
+                        "end": "2019-08-20T16:00:34"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "312c430f-73c6-4a11-b677-da35d0d29a8e",
+                        "coordinates": {
+                            "latitude": 51.264763501911446,
+                            "longitude": -0.23610700686968403
+                        }
+                    },
+                    "leg_distance": 3683,
+                    "estimated_arrival": "2019-08-20T12:46:56",
+                    "delivery_window": {
+                        "start": "2019-08-20T12:05:51",
+                        "end": "2019-08-20T13:05:51"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "7d3d8e5f-c3c4-4808-83aa-40d6116e65d5",
+                        "coordinates": {
+                            "latitude": 51.18378426454803,
+                            "longitude": -0.16624896229743139
+                        }
+                    },
+                    "leg_distance": 10234,
+                    "estimated_arrival": "2019-08-20T12:49:18",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:56:38",
+                        "end": "2019-08-20T13:56:38"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "65e37961-aa46-4439-aaa1-e5db4f9af35b",
+                        "coordinates": {
+                            "latitude": 51.19455093788763,
+                            "longitude": -0.005360193042620406
+                        }
+                    },
+                    "leg_distance": 11276,
+                    "estimated_arrival": "2019-08-20T12:51:55",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:52:23",
+                        "end": "2019-08-20T12:52:23"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "a6ce9acc-3b0e-4799-ae45-32139807a584",
+                        "coordinates": {
+                            "latitude": 51.22032619986252,
+                            "longitude": -0.03327744086787865
+                        }
+                    },
+                    "leg_distance": 3463,
+                    "estimated_arrival": "2019-08-20T12:52:43",
+                    "delivery_window": {
+                        "start": "2019-08-20T12:03:02",
+                        "end": "2019-08-20T13:03:02"
+                    }
+                },
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 18381,
+                    "estimated_arrival": "2019-08-20T12:56:58"
+                }
+            ],
+            "id": "bedbf67d-91ed-4ac7-b141-67d9bc587dd1"
+        },
+        {
+            "vehicle_id": "1c5655ef-03ec-4af2-96c5-511d98e26f73",
+            "loaded_drops": [
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "dfb11385-8581-4b0a-ad7c-d389aeb663d5",
+                        "coordinates": {
+                            "latitude": 51.41973180961507,
+                            "longitude": 0.17360696977434542
+                        }
+                    },
+                    "leg_distance": 16606,
+                    "estimated_arrival": "2019-08-20T12:07:00",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:39:07",
+                        "end": "2019-08-20T13:39:07"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "1a9a497e-491a-4f37-976b-c49c66590c34",
+                        "coordinates": {
+                            "latitude": 51.21031817159132,
+                            "longitude": -0.07642884346235437
+                        }
+                    },
+                    "leg_distance": 29055,
+                    "estimated_arrival": "2019-08-20T12:13:43",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:40:43",
+                        "end": "2019-08-20T13:40:43"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "8f4cdd75-ae39-40fe-8c91-b6e498f25fee",
+                        "coordinates": {
+                            "latitude": 51.2798754657191,
+                            "longitude": -0.18632091563169817
+                        }
+                    },
+                    "leg_distance": 10878,
+                    "estimated_arrival": "2019-08-20T12:16:15",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:46:06",
+                        "end": "2019-08-20T12:46:06"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "038450fa-be40-411a-b082-c3714d4853b6",
+                        "coordinates": {
+                            "latitude": 51.361091459952256,
+                            "longitude": -0.10237372151419304
+                        }
+                    },
+                    "leg_distance": 10751,
+                    "estimated_arrival": "2019-08-20T12:18:44",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:28:46",
+                        "end": "2019-08-20T12:28:46"
+                    }
+                },
+                {
+                    "drop_type": "CUSTOMER_DROP",
+                    "customer": {
+                        "id": "83d0820c-192d-43a3-a39b-bcd8351a6a79",
+                        "coordinates": {
+                            "latitude": 51.38370756116297,
+                            "longitude": -0.08797307215905377
+                        }
+                    },
+                    "leg_distance": 2706,
+                    "estimated_arrival": "2019-08-20T12:19:21",
+                    "delivery_window": {
+                        "start": "2019-08-20T11:47:06",
+                        "end": "2019-08-20T12:47:06"
+                    }
+                },
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 2247,
+                    "estimated_arrival": "2019-08-20T12:19:53"
+                }
+            ],
+            "unloaded_drops": [
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 0,
+                    "estimated_arrival": "2019-08-20T12:19:53"
+                },
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 0,
+                    "estimated_arrival": "2019-08-20T12:19:53"
+                }
+            ],
+            "id": "1ff26537-4116-4c44-8b56-35b657438d15"
+        },
+        {
+            "vehicle_id": "9745f05c-af7f-4a38-bfa6-bc81986c4e0a",
+            "loaded_drops": [],
+            "unloaded_drops": [
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 0,
+                    "estimated_arrival": "2019-08-20T12:05:51"
+                },
+                {
+                    "drop_type": "DEPOT_VISIT",
+                    "coordinates": {
+                        "latitude": 51.37682225430226,
+                        "longitude": -0.11842633091899092
+                    },
+                    "leg_distance": 0,
+                    "estimated_arrival": "2019-08-20T12:05:51"
+                }
+            ],
+            "id": "3fdd4fbe-d078-4df7-b98c-53c51686bb4c"
+        }
+    ],
+    "route_update": {
+        "vehicle_id": "b22031a4-b2f3-4732-a48b-2025ccde359f",
+        "loaded_drops": [
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "be1d1cca-cc79-467d-b417-513057c5d64e",
+                    "coordinates": {
+                        "latitude": 51.11525825967165,
+                        "longitude": 0.04920314885480488
+                    }
+                },
+                "leg_distance": 13593,
+                "estimated_arrival": "2019-08-20T12:08:55",
+                "delivery_window": {
+                    "start": "2019-08-20T11:05:45",
+                    "end": "2019-08-20T13:05:45"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "7bda655b-1728-410d-8023-4687c9526537",
+                    "coordinates": {
+                        "latitude": 51.27995264811003,
+                        "longitude": 0.1978295041515336
+                    }
+                },
+                "leg_distance": 21038,
+                "estimated_arrival": "2019-08-20T12:13:48",
+                "delivery_window": {
+                    "start": "2019-08-20T11:07:21",
+                    "end": "2019-08-20T15:07:21"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "926ecdb3-f4ec-4e25-b82a-a183b3cba31c",
+                    "coordinates": {
+                        "latitude": 51.27451247656379,
+                        "longitude": 0.1082608626730981
+                    }
+                },
+                "leg_distance": 6259,
+                "estimated_arrival": "2019-08-20T12:15:15",
+                "delivery_window": {
+                    "start": "2019-08-20T11:22:20",
+                    "end": "2019-08-20T12:22:20"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "eb7691fc-12aa-41f2-ba7d-cc24668e3090",
+                    "coordinates": {
+                        "latitude": 51.396264439734885,
+                        "longitude": -0.04366025820513701
+                    }
+                },
+                "leg_distance": 17165,
+                "estimated_arrival": "2019-08-20T12:19:13",
+                "delivery_window": {
+                    "start": "2019-08-20T11:05:41",
+                    "end": "2019-08-20T13:05:41"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "13298860-092e-4054-ae2e-bb88970fdbc1",
+                    "coordinates": {
+                        "latitude": 51.42836642126209,
+                        "longitude": -0.06384185895179759
+                    }
+                },
+                "leg_distance": 3834,
+                "estimated_arrival": "2019-08-20T12:20:06",
+                "delivery_window": {
+                    "start": "2019-08-20T11:12:09",
+                    "end": "2019-08-20T13:12:09"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "be8bfcc6-b3b4-4c63-b706-425a12c05ec5",
+                    "coordinates": {
+                        "latitude": 51.83141976633758,
+                        "longitude": -0.2489492536418711
+                    }
+                },
+                "leg_distance": 46603,
+                "estimated_arrival": "2019-08-20T12:30:54",
+                "delivery_window": {
+                    "start": "2019-08-20T11:26:21",
+                    "end": "2019-08-20T13:26:21"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "97407221-974f-45b7-acd1-c0fbb1f5a763",
+                    "coordinates": {
+                        "latitude": 51.381399664644526,
+                        "longitude": -0.07771125095080075
+                    }
+                },
+                "leg_distance": 51418,
+                "estimated_arrival": "2019-08-20T12:42:48",
+                "delivery_window": {
+                    "start": "2019-08-20T11:05:12",
+                    "end": "2019-08-20T15:05:12"
+                }
+            },
+            {
+                "drop_type": "DEPOT_VISIT",
+                "coordinates": {
+                    "latitude": 51.37682225430226,
+                    "longitude": -0.11842633091899092
+                },
+                "leg_distance": 2871,
+                "estimated_arrival": "2019-08-20T12:43:28"
+            }
+        ],
+        "unloaded_drops": [
+            {
+                "drop_type": "DEPOT_VISIT",
+                "coordinates": {
+                    "latitude": 51.37682225430226,
+                    "longitude": -0.11842633091899092
+                },
+                "leg_distance": 0,
+                "estimated_arrival": "2019-08-20T12:43:28"
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "19443d30-b95a-4ee0-af3b-d4092244eabe",
+                    "coordinates": {
+                        "latitude": 51.28763890736504,
+                        "longitude": -0.19780698535399127
+                    }
+                },
+                "leg_distance": 11347,
+                "estimated_arrival": "2019-08-20T12:46:05",
+                "delivery_window": {
+                    "start": "2019-08-20T12:00:34",
+                    "end": "2019-08-20T16:00:34"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "312c430f-73c6-4a11-b677-da35d0d29a8e",
+                    "coordinates": {
+                        "latitude": 51.264763501911446,
+                        "longitude": -0.23610700686968403
+                    }
+                },
+                "leg_distance": 3683,
+                "estimated_arrival": "2019-08-20T12:46:56",
+                "delivery_window": {
+                    "start": "2019-08-20T12:05:51",
+                    "end": "2019-08-20T13:05:51"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "7d3d8e5f-c3c4-4808-83aa-40d6116e65d5",
+                    "coordinates": {
+                        "latitude": 51.18378426454803,
+                        "longitude": -0.16624896229743139
+                    }
+                },
+                "leg_distance": 10234,
+                "estimated_arrival": "2019-08-20T12:49:18",
+                "delivery_window": {
+                    "start": "2019-08-20T11:56:38",
+                    "end": "2019-08-20T13:56:38"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "65e37961-aa46-4439-aaa1-e5db4f9af35b",
+                    "coordinates": {
+                        "latitude": 51.19455093788763,
+                        "longitude": -0.005360193042620406
+                    }
+                },
+                "leg_distance": 11276,
+                "estimated_arrival": "2019-08-20T12:51:55",
+                "delivery_window": {
+                    "start": "2019-08-20T11:52:23",
+                    "end": "2019-08-20T12:52:23"
+                }
+            },
+            {
+                "drop_type": "CUSTOMER_DROP",
+                "customer": {
+                    "id": "a6ce9acc-3b0e-4799-ae45-32139807a584",
+                    "coordinates": {
+                        "latitude": 51.22032619986252,
+                        "longitude": -0.03327744086787865
+                    }
+                },
+                "leg_distance": 3463,
+                "estimated_arrival": "2019-08-20T12:52:43",
+                "delivery_window": {
+                    "start": "2019-08-20T12:03:02",
+                    "end": "2019-08-20T13:03:02"
+                }
+            },
+            {
+                "drop_type": "DEPOT_VISIT",
+                "coordinates": {
+                    "latitude": 51.37682225430226,
+                    "longitude": -0.11842633091899092
+                },
+                "leg_distance": 18381,
+                "estimated_arrival": "2019-08-20T12:56:58"
+            }
+        ],
+        "id": "c28702d2-55a9-495b-b8b1-fcb43af42489"
+    },
+    "revenue": 84.75
+}
